@@ -43,7 +43,7 @@ async def help_user(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked":
-               await update.reply_text(" Sorry,Darling You're Banned Lol")
+               await update.reply_text(" Sorry,oof You're Banned Lol")
                return
         except UserNotParticipant:
             await update.reply_text(
