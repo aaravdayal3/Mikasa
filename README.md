@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-# AI Hayasaka Sigma Bot
+# Ackerman Mikasa Sigma Bot
 
 **This Is a Multi purpose Bot Which Can:-**
 * Rename Telegram Files Into Any Formats <pre>(Like Renaming Video Files Into Audio File or Few Other Extensions) ✅ </pre>
