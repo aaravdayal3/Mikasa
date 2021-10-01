@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ <b>Erehh...Is It You? 🥲 Oh Its Just You {}, \nBtw I'm Mikasa Ackerman Many Love Me,But I'm Loyal to My Eren..& Also I'm A Bot,I can Rename+Convert Multiple Files At Once With Permanent Thumbnail And Custom Caption support ☺️ </b> \n
+    START_TEXT = """ <b>Erehh...Is It You? 🥲 Oh Its Just You {}, \nBtw I'm [Mikasa Ackerman](https://telegra.ph/file/9946ea42325bf78c593a5.jpg) Many Love Me, But I'm Loyal to My Eren..& Also I'm A Bot, I can Rename+Convert Multiple Files At Once With Permanent Thumbnail And Custom Caption support ☺️ </b> \n
 
 <b>I'm Maintained By: @Vedant_vn ⭐</b> \n 
 """
